@@ -1,12 +1,8 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage":"https://Nanton83.github.io/portfolio-page",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build"},
+  "homepage":"https://nanton83.github.io/portfolio-page",
+  
     
   "icons": [
     {
