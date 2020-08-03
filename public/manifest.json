@@ -1,9 +1,6 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage":"https://Nanton83.github.io/portfolio-page",
-  
-    
   "icons": [
     {
       "src": "favicon.ico",
@@ -15,5 +12,4 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
-  
 }
