@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1wBWjwzOK8LVll19vfTIJWzlqu3VH-zZO/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -58,16 +58,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Flatiron School",
+        "degree":"Full Stack Web Development",
+        "graduated":"June 2020",
+        "description":"525 hour course dedicated to building a strong programming foundation using Ruby, JavaScript, SQL, Rails and React"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Johnson & Wales University",
+        "degree":"BS Food Service Management AS Culinary Arts",
+        "graduated":"2013",
+        "description":""
       }
     ],
     "work":[
