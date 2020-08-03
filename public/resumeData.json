@@ -4,9 +4,9 @@
     "occupation":"Web Developer",
     "description":"who is passionate about learning new concepts and creating eye catching applications",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "bio":"I enjoy designing and building apps to make seemingly difficult taks easy.  I have done most of my builds with React and Rails frameworks while also writing vanilla JS, Ruby, SQL, HTML and CSS",
+    "contactmessage":"Send me a message!",
+    "email": "Nick.Romans1@gmail.com",
     "phone": "607-767-5887",
     "address":{
       "street":"",
@@ -14,7 +14,7 @@
       "state":"",
       "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
