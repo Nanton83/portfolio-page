@@ -4,7 +4,7 @@
     "occupation":"Web Developer",
     "description":"who is passionate about learning new concepts and creating eye catching applications",
     "image":"profilepic.jpg",
-    "bio":"I enjoy designing and building apps to make seemingly difficult taks easy.  I have done most of my builds with React and Rails frameworks while also writing vanilla JS, Ruby, SQL, HTML and CSS",
+    "bio":"I enjoy designing and building apps to make seemingly difficult tasks easy.  I have done most of my builds with React and Rails frameworks while also writing vanilla JS, Ruby, SQL, HTML and CSS",
     "contactmessage":"Send me a message!",
     "email": "Nick.Romans1@gmail.com",
     "phone": "607-767-5887",
@@ -63,12 +63,21 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"SQL",
+        "level":"50%"
+      },
+    
+      {
+        "name":"JavaScript",
         "level":"50%"
       },
       {
         "name":"ReactJs",
         "level":"50%"
+      },
+      {
+        "name":"Ruby",
+        "level":"60%"
       },
       {
         "name":"Ruby On Rails",
@@ -81,6 +90,14 @@
       {
         "name":"HTML5",
         "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"50%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"50%"
       }
       
     ]
@@ -89,15 +106,15 @@
     "projects": [
       {
         "title":"Our Favorite Restaurants",
-        "category":"Favorite Restaurant App",
+        "category":"List your favorite restaurants and dishes.  Made with a Javascript front end and Rails API",
         "image":"fav-rest-icon.jpg",
         "url":"https://favrestfe.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Farmers Market App",
+        "category":"Keep track of farmer markets as a farmer with many markets - Made with React front end and Rails API",
+        "image":"farmer-market-icon.png",
+        "url":"https://farmers-market-frontend.herokuapp.com/"
       }
     ]
   },
