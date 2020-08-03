@@ -88,10 +88,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Our Favorite Restaurants",
+        "category":"Favorite Restaurant App",
+        "image":"fav-rest-icon.jpg",
+        "url":"https://favrestfe.herokuapp.com/"
       },
       {
         "title":"Fury Fighting Gear",
