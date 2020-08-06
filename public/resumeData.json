@@ -60,44 +60,49 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"60%",
+        "image":"github.png"
       },
       {
         "name":"SQL",
-        "level":"50%"
+        "level":"50%",
+        "image":"sql.png"
       },
     
       {
         "name":"JavaScript",
-        "level":"50%"
+        "level":"50%",
+        "image":"javascript.png"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"50%",
+        "image":"react.png"
       },
       {
         "name":"Ruby",
-        "level":"60%"
-      },
-      {
-        "name":"Ruby On Rails",
-        "level":"60%"
+        "level":"60%",
+        "image":"ruby.png"
       },
       {
         "name":"CSS",
-        "level":"60%"
+        "level":"60%",
+        "image":"css.png"
       },
       {
         "name":"HTML5",
-        "level":"60%"
+        "level":"60%",
+        "image":"html.png"
       },
       {
         "name":"Illustrator",
-        "level":"50%"
+        "level":"50%",
+        "image":"ai.png"
       },
       {
         "name":"Photoshop",
-        "level":"50%"
+        "level":"50%",
+        "image":"photoshop.png"
       }
       
     ]

@@ -17,8 +17,10 @@ class Resume extends Component {
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
-        var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+        let skillsImage = 'images/portfolio/'+skills.image;
+        // var className = 'bar-expand '+skills.name.toLowerCase();
+        return <li key={skills.name}><img alt={skills.name} src={skillsImage} /></li>
+        // images are 64 px
       })
     }
 
@@ -64,7 +66,7 @@ class Resume extends Component {
             <p>{skillmessage}
             </p>
 
-				<div className="bars">
+				<div className="">
 				   <ul className="skills">
 					  {skills}
 					</ul>
