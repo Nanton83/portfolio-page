@@ -2,9 +2,9 @@
   "main": {
     "name":"Nick Romans",
     "occupation":"Web Developer",
-    "description":"who is passionate about learning new concepts and creating eye catching applications",
+    "description":"who is passionate about innovation and creating eye catching applications",
     "image":"profilepic.jpg",
-    "bio":"I enjoy designing and building apps to make seemingly difficult tasks easy.  I have done most of my builds with React and Rails frameworks while also writing vanilla JS, Ruby, SQL, HTML and CSS",
+    "bio":"I enjoy designing and building apps to make seemingly difficult tasks easy.  I have done most of my builds with React and Rails frameworks while also writing vanilla JS, Ruby, SQL, HTML and CSS.  I've always been a tech hobbiest with designing, animating and film making so I completed the Full Stack Web Development program at Flatiron school to bring my passion to life.",
     "contactmessage":"Send me a message!",
     "email": "Nick.Romans1@gmail.com",
     "phone": "607-767-5887",
@@ -33,7 +33,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"My programming skills continue to grow as I build projects and learn new languages",
+    "skillmessage":"I stay up to date with all of the latest developer trends while continuing to build my current library.",
     "education":[
       {
         "school":"Flatiron School",
