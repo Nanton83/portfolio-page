@@ -280,6 +280,11 @@ ul#nav li.current a { color: #F06000; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+#resume .wrapper {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-gap: 10px;
+ }
 
 /*----------------------------------------------*/
 /*	Skill Bars
